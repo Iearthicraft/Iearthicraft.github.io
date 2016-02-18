@@ -1,8 +1,10 @@
+ul {
+    padding-right: 3000px;
+}
 li {
     display: inline;
     float: left;
     background-color: #dddddd;
-    padding-right: 3000px;
 }
 a {
     display: block;
