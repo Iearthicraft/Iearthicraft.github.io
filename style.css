@@ -2,12 +2,12 @@ li {
     display: inline;
     float: left;
     background-color: #dddddd;
+    padding-right: 3000px;
 }
 a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
-    padding-right: 3000px;
 }
 iframe {
     padding:8px;
