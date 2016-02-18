@@ -7,7 +7,8 @@ a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+    padding-right: 3000px;
 }
 iframe {
-    float: left;
+    padding:8px;
 }
