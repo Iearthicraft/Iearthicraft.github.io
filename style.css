@@ -1,6 +1,10 @@
-h1 {
-    color: #5500ff;
+li {
+    display: inline;
+    float: left;
+    background-color: #dddddd;
 }
-iframe {
-    display: center;
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
