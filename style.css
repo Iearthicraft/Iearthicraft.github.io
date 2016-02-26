@@ -13,7 +13,7 @@ a {
     text-decoration: none;
     color: black;
 }
-a:current {
+a#current {
     display: block;
     padding: 8px;
     background-color: #23FA23;
