@@ -1,5 +1,7 @@
 div:nav {
     padding-right: 3000px;
+}
+ul {
     width: 200px;
     height: 10px;
     background: #1FD51F;
