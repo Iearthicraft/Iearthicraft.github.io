@@ -11,10 +11,12 @@ a {
     padding: 8px;
     background-color: #1FD51F;
     text-decoration: none;
+    color: black;
 }
 a:current {
     display: block;
     padding: 8px;
     background-color: #23FA23;
     text-decoration: none;
+    color: black;
 }
