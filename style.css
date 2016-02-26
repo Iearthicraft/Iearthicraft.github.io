@@ -1,8 +1,8 @@
 div:nav {
     padding-right: 3000px;
-}
-ul {
-    background-color: #1FD51F;
+    width: 200px;
+    height: 10px;
+    background: #1FD51F;
 }
 li {
     display: inline;
