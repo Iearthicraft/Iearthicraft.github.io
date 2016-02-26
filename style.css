@@ -11,6 +11,6 @@ a {
     padding: 8px;
     background-color: #dddddd;
 }
-div.streams {
+div#streams {
     display: block;
 }
