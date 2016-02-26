@@ -12,5 +12,5 @@ a {
     background-color: #dddddd;
 }
 div.streams {
-    padding-left: 20px;
+    display: block;
 }
