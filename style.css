@@ -1,6 +1,9 @@
 div:nav {
     padding-right: 3000px;
 }
+ul {
+    background-color: #1FD51F;
+}
 li {
     display: inline;
     float: left;
