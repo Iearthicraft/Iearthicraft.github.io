@@ -1,17 +1,17 @@
 div:nav {
     padding-right: 3000px;
 }
-ul {
+div:nav.ul {
     width: 95%;
     height: 34px;
     background: #1FD51F;
 }
-li {
+div:nav.ul.li {
     display: inline;
     float: left;
     background-color: #dddddd;
 }
-a {
+div:nav.ul.li.a {
     display: block;
     padding: 8px;
     background-color: #1FD51F;
