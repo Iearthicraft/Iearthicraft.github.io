@@ -1,5 +1,5 @@
 div:nav {
-    padding-right: 30px;
+    padding-right: 3000px;
 }
 div.ul {
     width: 95%;
@@ -12,14 +12,14 @@ ul.li {
     background-color: #dddddd;
 }
 li.a {
-    display: block;
+    display: inline;
     padding: 8px;
     background-color: #1FD51F;
     text-decoration: none;
     color: black;
 }
 a#current {
-    display: block;
+    display: inline;
     padding: 8px;
     background-color: #23FA23;
     text-decoration: none;
